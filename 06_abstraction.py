@@ -23,7 +23,7 @@ class abst2(abst):
     def two(self):
         return "this will store words"
     
-def three(self):
-    return "this will store sentences"
+    def three(self):
+        return "this will store sentences"
 
 
