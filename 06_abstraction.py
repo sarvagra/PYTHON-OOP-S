@@ -25,5 +25,5 @@ class abst2(abst):
     
     def three(self):
         return "this will store sentences"
-
+    
 
