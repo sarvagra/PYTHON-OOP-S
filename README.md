@@ -7,4 +7,4 @@ CONCEPT OF OOP'S IN PYTHON LANGUAGE<br>
 -> **INHERITANCE** <br>
 -> **ABSTRACTION** <br>
 -> **DECORATORS** <br>
-
+-> **CLASS METHODS** <BR>
